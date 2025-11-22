@@ -1,5 +1,5 @@
-const BACKEND_HTTP = 'https://physically-holy-longhorn.ngrok-free.app';
-const BACKEND_WS = 'wss://physically-holy-longhorn.ngrok-free.app/ws/control?role=mobile';
+const BACKEND_HTTP = 'https://sachiko-meagre-apollo.ngrok-free.dev/';
+const BACKEND_WS = 'wss://sachiko-meagre-apollo.ngrok-free.dev//ws/control?role=mobile';
 const DEFAULT_HEADERS = {
   'ngrok-skip-browser-warning': 'mobile-client'
 };
